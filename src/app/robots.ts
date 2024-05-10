@@ -12,6 +12,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: ["/"],
       },
     ],
-    sitemap: "https://omniplex.ai/sitemap.xml",
+    sitemap: "https://OvFlowAI.com/sitemap.xml",
   };
 }

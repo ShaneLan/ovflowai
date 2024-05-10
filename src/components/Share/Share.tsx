@@ -89,7 +89,7 @@ const Share = (props: Props) => {
                   width={50}
                   height={50}
                   src={"/Logo.svg"}
-                  alt={"Omniplex"}
+                  alt={"OvFlowAI"}
                   className={styles.logo}
                 />
               </div>

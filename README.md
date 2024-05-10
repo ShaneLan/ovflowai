@@ -6,11 +6,11 @@
     Open-Source Perplexity
     <br />
     <br />
-    <a href="https://omniplex.ai">Website</a>
-    ·
+    <a href="https://OvFlowAI.com">Website</a>
+    <!-- ·
     <a href="https://discord.gg/87Mh7q5ZSd">Discord</a>
     ·
-    <a href="https://www.reddit.com/r/omniplex_ai">Reddit</a>
+    <a href="https://www.reddit.com/r/omniplex_ai">Reddit</a> -->
   </p>
 </p>
 

@@ -51,7 +51,7 @@ const Answer = (props: Props) => {
   return (
     <div className={styles.answerContainer}>
       <div className={styles.answerTextRow}>
-        <Image src={Logo} alt="Omniplex" className={styles.answerImg} />
+        <Image src={Logo} alt="OvFlowAI" className={styles.answerImg} />
         <p className={styles.answerText}>Answer</p>
       </div>
       {props.isLoading ? (

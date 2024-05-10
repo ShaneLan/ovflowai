@@ -9,38 +9,38 @@ import Sidebar from "@/components/Sidebar/Sidebar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Omniplex",
-  description: "Search online with the power of AI. Try now!",
+  title: "OvFlowAI",
+  description: "Search Stackoverflow with the power of AI. Try now!",
   icons: {
     icon: "/Logo.png",
     shortcut: "/Logo.png",
     apple: "/Apple-Icon.png",
   },
   openGraph: {
-    title: "Omniplex - Web Search AI",
-    description: "Search online with the power of AI. Try now!",
-    url: "https://omniplex.ai/",
-    siteName: "Omniplex",
+    title: "OvFlowAI - Web Search AI",
+    description: "Search stackoverflow with the power of AI. Try now!",
+    url: "https://OvFlowAI.com/",
+    siteName: "OvFlowAI",
     images: [
       {
-        url: "https://omniplex.ai/OGImage.png",
+        url: "https://OvFlowAI.com/OGImage.png",
         width: 1200,
         height: 630,
-        alt: "Omniplex - Web Search AI",
+        alt: "OvFlowAI - Stackoverflow Search AI",
       },
     ],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Omniplex - Web Search AI",
+    title: "OvFlowAI - Web Search AI",
     description: "Search online with the power of AI. Try now!",
     images: [
       {
-        url: "https://omniplex.ai/OGImage.png",
+        url: "https://OvFlowAI.ai/OGImage.png",
         width: 1200,
         height: 630,
-        alt: "Omniplex - Web Search AI",
+        alt: "OvFlowAI - Stackoverflow Search AI",
       },
     ],
   },
